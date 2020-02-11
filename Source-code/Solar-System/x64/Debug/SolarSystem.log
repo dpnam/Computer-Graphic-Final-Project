@@ -1,0 +1,17 @@
+﻿  Camera.cpp
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\camera.cpp(14): warning C4305: '=': truncation from 'double' to 'float'
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\camera.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\camera.cpp(39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\camera.cpp(40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\camera.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\camera.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Moon.cpp
+  Planet.cpp
+  SolarSystem.cpp
+  TGA.cpp
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\tga.cpp(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\it\hk_5\project\dhmt\cuoiky\dhmt_doan_lythuyet\solarsystem\tga.cpp(38): warning C4101: 'j': unreferenced local variable
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'glut32.lib'
